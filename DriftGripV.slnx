@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DriftGripV/DriftGripV.vcxproj" Id="69eef08f-7eb8-48b7-a015-21de5768ac70">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
+</Solution>
